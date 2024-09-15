@@ -44,5 +44,5 @@ Para configurar e executar a LawOfficeAPI, siga os passos abaixo:
 [visual-studio-code]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge
 [python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge
 [SQLite Badge]: https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge
-[SQLAlchemy Badge]: https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=flat-badge
-[Pytest Badge]: https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat-badge
+[SQLAlchemy Badge]: https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=for-the-badge
+[Pytest Badge]: https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=for-the-badge
