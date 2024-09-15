@@ -6,6 +6,14 @@ Este projeto apresenta a **LawOfficeAPI**, uma API RESTful desenvolvida para ger
 
 O projeto abrange a criação, leitura, atualização e deleção (CRUD) de entidades fundamentais como Clientes, Advogados, Casos e Documentos. Além disso, testes automatizados foram implementados utilizando **pytest** e **requests** para garantir a robustez e a confiabilidade das funcionalidades desenvolvidas. 
 
+### Construido com
+
+![visual-studio-code]
+![python]
+![SQLite Badge]
+![SQLAlchemy Badge]
+![Pytest Badge]
+
 ### Ferramentas
 
 - **Uuid:** Gera identificadores únicos para garantir que cada e-mail e nome sejam únicos, evitando conflitos de unicidade.
@@ -30,3 +38,11 @@ Para configurar e executar a LawOfficeAPI, siga os passos abaixo:
    ```
 
 3. Execute o servidor e aproveite os testes.
+
+
+<!-- Badges -->
+[visual-studio-code]: https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=for-the-badge
+[python]: https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge
+[SQLite Badge]: https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=fff&style=for-the-badge
+[SQLAlchemy Badge]: https://img.shields.io/badge/SQLAlchemy-D71F00?logo=sqlalchemy&logoColor=fff&style=flat-square
+[Pytest Badge]: https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=fff&style=flat-square
